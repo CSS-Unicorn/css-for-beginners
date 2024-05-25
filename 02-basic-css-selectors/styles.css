@@ -1,0 +1,14 @@
+/* Element Selector: Targets elements by their name. */
+p {
+  color: green;
+}
+
+/* Class Selector: Targets elements by their class attribute. */
+.my-class {
+  font-size: 20px;
+}
+
+/* ID Selector: Targets an element by its ID attribute. */
+#my-id {
+  background-color: yellow;
+}

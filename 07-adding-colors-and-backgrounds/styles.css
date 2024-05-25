@@ -1,0 +1,10 @@
+body {
+  background-color: lightyellow;
+}
+
+div {
+  background-image: url("background.jpg");
+  background-size: cover;
+  padding: 50px;
+  color: white;
+}
