@@ -1,4 +1,7 @@
-# 📘 CSS for Beginners - Code Examples
+
+![Unlock the Power of CSS Books, Projects, and More-min](https://github.com/CSS-Unicorn/css-for-beginners/assets/71933266/1d2ea1af-69f2-4daf-9388-06adc27c24cf)
+
+# CSS for Beginners - Code Examples 
 
 This repository contains all the code examples from the book ["CSS for Beginners: Start Your Journey to
 Becoming a CSS Unicorn."](https://www.mirayatechstore.com/products/css-for-beginners) Dive in and see the examples live, just like in VS Code! 🌟
