@@ -3,8 +3,7 @@
 
 # CSS for Beginners - Code Examples 
 
-This repository contains all the code examples from the book ["CSS for Beginners: Start Your Journey to
-Becoming a CSS Unicorn."](https://www.mirayatechstore.com/products/css-for-beginners) Dive in and see the examples live, just like in VS Code! 🌟
+This repository contains all the code examples from the book. Dive in and see the examples live, just like in VS Code! 🌟
 
 ## 📂 Repository Structure
 
